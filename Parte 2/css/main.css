@@ -1,0 +1,25 @@
+
+.primero{
+          height: 200px;
+          width: 200px;
+          background-color:#0048FB;
+          position: static;
+         }
+
+.segundo{
+          height: 50px;
+          width: 50px;
+          background-color:black;
+          position: absolute;
+          
+         }
+
+.tercero{
+          height: 100px;
+          width: 100px;
+          background-color:#387804;
+          left: 50px;
+          top:50px;
+          position:relative;
+         }
+  
